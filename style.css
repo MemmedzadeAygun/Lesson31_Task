@@ -1,0 +1,12 @@
+
+ul li{
+    list-style-type: none;
+    font-family: "Roboto", sans-serif;
+}
+h1, p{
+    font-family: "Roboto", sans-serif;
+}
+ul li:nth-child(even){
+    background-color: lightblue;
+    width: 380px;
+}
